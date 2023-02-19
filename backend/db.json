@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Amanda T. O.",
+      "email": "amanda@amg.com"
+    },
+    {
+      "name": "Gustavo Tavares",
+      "email": "gt3@amg.com",
+      "id": 5
+    },
+    {
+      "name": "Felipe de Oliveira Molinari",
+      "email": "fe.moli@empresa.com",
+      "id": 8
+    },
+    {
+      "name": "Matheus T.",
+      "email": "mts24@empresa.com",
+      "id": 9
+    }
+  ]
+}

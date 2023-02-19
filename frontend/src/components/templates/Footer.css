@@ -1,0 +1,8 @@
+footer.footer{
+    display: flex; /* Aonde vai posicionar o próximo texto */
+    align-items: center; /* Tipo de alinhamento dos itens, textos, imagens */
+    justify-content: flex-end; /* Posicionamento dos itens (fixar a esquerda ou direita da tela) */
+    padding: 0 25px;
+    background-color: white;
+    box-shadow: var(--shadow);
+}
